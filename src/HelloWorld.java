@@ -8,8 +8,8 @@ public class HelloWorld {
             System.out.println(i);
         }
 
-        System.out.println("Petra teller til tyve");
-        for (int i = 11; i <= 20; ++i ) {
+        System.out.println("Petra teller til tretti");
+        for (int i = 11; i <= 30; ++i ) {
             System.out.println(i);
         }
     }
